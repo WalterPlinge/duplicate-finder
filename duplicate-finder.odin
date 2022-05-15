@@ -1,4 +1,4 @@
-package df
+package duplicate_finder
 
 import "core:fmt"
 import "core:hash/xxhash"
